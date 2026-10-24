@@ -1,10 +1,12 @@
-# Peachity — AI-Native Systems & Product Studio
+# Peachity — AI Strategy, Production Engineering & Technical Leadership
 
-Peachity is an AI-native systems and technology studio that builds software, AI products, automation, and internal platforms. This case study focuses on Peachity’s AI Opportunity Map: an evidence-grounded assessment engine that identifies and prioritizes opportunities for AI, automation, and software.
+[Peachity](https://www.peachity.com) is a founder-led technology business focused on Production Readiness Reviews, production engineering for AI-built software, and fractional CTO leadership for non-technical founders. [Peachity Studio](https://www.peachity.com/studio) offers smaller, defined projects involving brand identity and design, MVP builds, and focused digital solutions.
+
+This engineering case study focuses specifically on Peachity's AI Opportunity Map: an evidence-grounded assessment engine that identifies and prioritizes opportunities for AI, automation, and software.
 
 ## Product
 
-Within Peachity’s broader studio business, the Opportunity Map accepts website or business context, gathers evidence, assesses business identity and needs, builds candidate opportunities, and returns a prioritized map with implementation guidance. The engine is exposed through a web experience and an MCP interface.
+The Opportunity Map accepts website or business context, gathers evidence, assesses business identity and needs, builds candidate opportunities, and returns a prioritized map with implementation guidance. The engine is exposed through a web experience and an MCP interface.
 
 ## Problem
 
